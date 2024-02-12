@@ -16,16 +16,16 @@ const WhyChooseMeSection = () => {
                     </div>
                     <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 p-4 text-center">
                         <img src={pq} alt="Icon 2" className="w-20 mx-auto mb-4" />
-                        <h3 className="text-lg font-semibold text-gray-800 mb-2">Visionary Leadership</h3>
+                        <h3 className="text-lg font-semibold text-gray-800 mb-2">Premium Quality</h3>
 
                     </div>
                     <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 p-4 text-center">
                         <img src={cod} alt="Icon 3" className="w-20 mx-auto mb-4" />
-                        <h3 className="text-lg font-semibold text-gray-800 mb-2">Tailored Consultancy</h3>
+                        <h3 className="text-lg font-semibold text-gray-800 mb-2">Cash On Delivery</h3>
                     </div>
                     <div className="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 p-4 text-center">
                         <img src={hm} alt="Icon 4" className="w-20 mx-auto mb-4" />
-                        <h3 className="text-lg font-semibold text-gray-800 mb-2">Accelerated Growth</h3>
+                        <h3 className="text-lg font-semibold text-gray-800 mb-2">Handmade</h3>
 
                     </div>
                 </div>
